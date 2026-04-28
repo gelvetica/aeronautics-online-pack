@@ -1,0 +1,16 @@
+name = "Aeronautics Online"
+author = "gelvetica, Aeronautics Online Contributors"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b02de5b809da69d985f9f6be0d0048705d25f197c8ff62912ecb1421f522540f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.228"
+
+[options]
+acceptable-game-versions = ["1.21"]

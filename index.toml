@@ -102,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/mcmouser.pw.toml"
-hash = "6b421aa2fa6669feab19e4f43e92b706d501ddf57f226e01748a3e5d0f83d0fb"
+hash = "e00949087f4b15cf9cab6fe9430ab85ff384799e1715ed473b714b33c00fa27d"
 metafile = true
 
 [[files]]
@@ -173,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "62bd7012826fdcccf17a089055be67f87fb7335c88e73efc52bc9e51a1bf3188"
+metafile = true
+
+[[files]]
+file = "mods/veil.pw.toml"
+hash = "c48a5094a94604312b7876341c2116af7da589cef9d0d84b43f91afcbcb1049b"
 metafile = true
 
 [[files]]

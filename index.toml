@@ -101,6 +101,11 @@ hash = "91e6a0e562023e927ca1c56bdfd5df673609cac23528f768a83afe3674cdd0c0"
 metafile = true
 
 [[files]]
+file = "mods/mcmouser.pw.toml"
+hash = "6b421aa2fa6669feab19e4f43e92b706d501ddf57f226e01748a3e5d0f83d0fb"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "6c600fe7b0789b7501968f57bb33b526e8c711dc6305f64b406abccfbdb971d5"
 metafile = true

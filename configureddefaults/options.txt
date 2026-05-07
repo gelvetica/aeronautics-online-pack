@@ -1,0 +1,10 @@
+version:3955
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_key.cpm.gestureMenu:key.keyboard.unknown
+key_key.mute_microphone:key.keyboard.n
+key_key.disable_voice_chat:key.keyboard.unknown
+key_key.hide_icons:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.unknown
+key_gui.xaero_new_waypoint:key.keyboard.unknown
+key_gui.xaero_enlarge_map:key.keyboard.unknown
+key_gui.xaero_instant_waypoint:key.keyboard.unknown

@@ -1,12 +1,12 @@
 name = "Aeronautics Online"
 author = "gelvetica, Aeronautics Online Contributors"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8d9a755584606911a2e49306b859b44796373ff62bc8ce533a5bb4aa8503d6c6"
+hash = "80ec9130ae38f3b8972a3bf133a236de09f4028d644edad983c5e5f6b6ea90f9"
 
 [versions]
 minecraft = "1.21.1"

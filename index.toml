@@ -13,6 +13,10 @@ file = "configureddefaults/options.txt"
 hash = "d8b93992b9f9de950570d5c0cbd3309e29449d25d50b6490a21fdc38bb57aeb2"
 
 [[files]]
+file = "configureddefaults/servers.dat"
+hash = "8e04992ee54d7d2bb9e25fd8ea0e56690a11f49dcdd3729cef4c216619cd1e33"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
 metafile = true
